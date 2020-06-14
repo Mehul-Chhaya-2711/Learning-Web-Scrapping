@@ -1,4 +1,7 @@
 #For it to Work please input correct Names with no spelling mistakes. It is a basic code with no aritifial intelligence
+#If you do not know th entire name enter only a word and it should do fine
+
+
 
 # #############WIKIPEDIA SCRAPPER#####################
 # Objective: Builda scrapper that searches our desired term on google and returns with an intorductory paragraph of on that term 
