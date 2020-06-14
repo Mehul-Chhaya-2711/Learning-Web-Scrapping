@@ -1,3 +1,5 @@
+#Works only for those values that have at least 1 wikipedia URL
+
 # #############WIKIPEDIA SCRAPPER#####################
 # Objective: Builda scrapper that searches our desired term on google and returns with an intorductory paragraph of on that term 
            # from wikipedia according to the page sorted out by google bsis the popularity of the subject
